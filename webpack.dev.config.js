@@ -25,7 +25,6 @@ module.exports = merge(webpackBaseConfig, {
             //     target: 'http://localhost:5000',
             //     changeOrigin: true
             // },
-
         }
     },
     plugins: [

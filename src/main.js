@@ -1,7 +1,6 @@
 import Vue from 'vue';
 import iView from 'iview';
 import VueRouter from 'vue-router';
-import VueResource from 'vue-resource'
 import Routers from './router';
 import Util from './libs/util';
 import App from './app.vue';
@@ -11,8 +10,7 @@ import store from './store'
 
 Vue.use(VueRouter);
 Vue.use(iView);
-/*VueResource*/
-Vue.use(VueResource);
+
 
 // 路由配置
 const RouterConfig = {
