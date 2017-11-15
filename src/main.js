@@ -33,7 +33,7 @@ router.afterEach((to, from, next) => {
 new Vue({
     el: '#app',
     /*Vuex*/
-    store,
+    store,   /*访问状态 store.state.Lang*/
     router: router,
     render: h => h(App)
 });

@@ -29,6 +29,7 @@ npm run build
 optional
 ```
 "mavon-editor": "^2.2.9",
+"vue-i18n": "^7.3.2",
 ```
 
 ### devDependencies
