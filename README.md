@@ -1,6 +1,8 @@
 # iView-project Template
 
-This project is build for Vue.js 2 + vue-router + webpack2 + iView 2, just install and run.
+在iView基础上做的一个模版
+
+Vue.js 2 + vue-router + webpack2 + iView 2 + Vuex
 
 ## Install
 ```bush
@@ -35,7 +37,7 @@ optional
 
 ```
 
-## Directory：
+### Directory
 store  Vuex状态管理器
 libs   辅助函数，公用函数
 components 组件
