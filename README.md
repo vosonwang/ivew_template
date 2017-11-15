@@ -7,7 +7,7 @@ Vue.js 2 + vue-router + webpack2 + iView 2 + Vuex
 ## Install
 ```bush
 // install dependencies
-npm install
+sudo npm install --registry=http://registry.npm.taobao.org
 ```
 ## Run
 ### Development
@@ -39,7 +39,9 @@ optional
 
 ### Directory
 store  Vuex状态管理器
+
 libs   辅助函数，公用函数
+
 components 组件
 
 
