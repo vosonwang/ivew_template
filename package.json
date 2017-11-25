@@ -1,6 +1,6 @@
 {
-  "name": "iview-project",
-  "version": "2.1.0",
+  "name": "Webpack-iView-Template",
+  "version": "1.0.0",
   "description": "A base project with Vue.js2、Vue-Router、webpack2 and with iView2.",
   "main": "index.js",
   "scripts": {
@@ -10,16 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/iview/iview-project.git"
+    "url": "https://github.com/vosonwang/ivew_template.git"
   },
-  "author": "Aresn",
+  "author": "Voson",
   "license": "MIT",
   "dependencies": {
     "vue": "^2.5.8",
     "vue-router": "^3.0.1",
     "iview": "^2.7.3",
-    "vuex": "^3.0.1",
-    "mavon-editor": "^2.4.3"
+    "vuex": "^3.0.1"
   },
   "devDependencies": {
     "autoprefixer-loader": "^2.0.0",
